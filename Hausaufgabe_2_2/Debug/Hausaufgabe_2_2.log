@@ -1,0 +1,6 @@
+﻿  Main.cpp
+  MyString.cpp
+C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\Hausaufgabe_2_2\MyString.cpp(28,20): warning C4018:  "<": Konflikt zwischen "signed" und "unsigned"
+  Code wird generiert...
+C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\Hausaufgabe_2_2\MyString.cpp(71,26): warning C4018:  "<": Konflikt zwischen "signed" und "unsigned"
+  Hausaufgabe_2_2.vcxproj -> C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\Debug\HA_2_2 String Klasse 1.exe

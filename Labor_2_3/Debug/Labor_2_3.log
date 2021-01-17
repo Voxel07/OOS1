@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: Das Zwischenverzeichnis (Debug\) enthält freigegebene Dateien aus einem anderen Projekt (Labor_2_3.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+  Polygonline.cpp
+  Labor_2_3.vcxproj -> C:\Users\Matze\OneDrive - bwedu\Semester 2 SS 19\Objektorientierte Systeme\OOS Semester 2019\Debug\Labor_2_3 Grafische Objekte 1.exe

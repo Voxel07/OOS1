@@ -1,0 +1,13 @@
+﻿  Gefrierschrank.cpp
+  Haushaltsgeraet.cpp
+  Kombination.cpp
+C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\Ha_4_4_ Mehrfache Vererbung 2\Kombination.hpp(4,28): warning C4584:  "Kombination": Basisklasse "Gefrierschrank" ist bereits eine Basisklasse von "Kuehlschrank"
+C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\Ha_4_4_ Mehrfache Vererbung 2\Gefrierschrank.hpp(4): message :  Siehe Deklaration von "Gefrierschrank"
+  Kuehlschrank.cpp
+  Main.cpp
+C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\Ha_4_4_ Mehrfache Vererbung 2\Kuehlschrank.hpp(4): message :  Siehe Deklaration von "Kuehlschrank"
+C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\Ha_4_4_ Mehrfache Vererbung 2\Kombination.hpp(4,28): warning C4584:  "Kombination": Basisklasse "Gefrierschrank" ist bereits eine Basisklasse von "Kuehlschrank"
+C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\Ha_4_4_ Mehrfache Vererbung 2\Gefrierschrank.hpp(4): message :  Siehe Deklaration von "Gefrierschrank"
+  Code wird generiert...
+C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\Ha_4_4_ Mehrfache Vererbung 2\Kuehlschrank.hpp(4): message :  Siehe Deklaration von "Kuehlschrank"
+  Ha_4_4_ Mehrfache Vererbung 2.vcxproj -> C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\Debug\HA_4_4_ Mehrfache Vererbung 2.exe

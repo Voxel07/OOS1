@@ -1,0 +1,4 @@
+﻿  Circle.cpp
+  Rectangle.cpp
+  Code wird generiert...
+C:\Users\Matze\OneDrive - bwedu\Semester 2 SS 19\Objektorientierte Systeme\OOS Semester 2019\Labor_5_4_Grafische Objekte 5\Circle.cpp(104): error C4700: Die nicht initialisierte lokale Variable "y" wurde verwendet.

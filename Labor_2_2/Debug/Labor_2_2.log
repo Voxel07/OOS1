@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Labor_2_2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Fifo.cpp
+  main.cpp
+  Code wird generiert...
+  C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\Labor_2_2\Fifo.cpp(42) : warning C4715: "Fifo::pusch": Nicht alle Codepfade geben einen Wert zurück.
+  Labor_2_2.vcxproj -> C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\Debug\Labor_2_2 Fifo.exe

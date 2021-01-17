@@ -1,0 +1,8 @@
+﻿  Akkubohrer.cpp
+  Akkuschrauber.cpp
+  Akkubohrschrauber.cpp
+  Elektrogeraete.cpp
+  Main.cpp
+  Code wird generiert...
+C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\HA_4_3_Mehrfache Vererbung 1\Elektrogeraete.cpp(8,9): warning C4244:  "=": Konvertierung von "double" in "int", möglicher Datenverlust
+  HA_4_3_Mehrfache Vererbung 1.vcxproj -> C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\Debug\HA_4_3_Mehrfache Vererbung 1.exe

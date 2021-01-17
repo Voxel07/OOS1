@@ -1,0 +1,18 @@
+﻿  HA1_9.cpp
+C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\Hausaufgabe_1_9\HA1_9.cpp(12,1): error C2556:  "void f(int)": Überladene Funktion unterscheidet sich nur hinsichtlich des Rückgabetyps von "int f(int)"
+C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\Hausaufgabe_1_9\HA1_9.cpp(5): message :  Siehe Deklaration von "f"
+C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\Hausaufgabe_1_9\HA1_9.cpp(11,6): error C2371:  "f": Neudefinition; unterschiedliche Basistypen
+C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\Hausaufgabe_1_9\HA1_9.cpp(5): message :  Siehe Deklaration von "f"
+C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\Hausaufgabe_1_9\HA1_9.cpp(34,25): error C2084:  Funktion "int f(int,int)" hat bereits einen Funktionsrumpf
+C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\Hausaufgabe_1_9\HA1_9.cpp(26): message :  Siehe vorherige Definition von "f"
+C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\Hausaufgabe_1_9\HA1_9.cpp(46,41): error C2548:  "f": Fehlender Standardparameter für Parameter 3
+C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\Hausaufgabe_1_9\HA1_9.cpp(59,5): error C2668:  "f": Mehrdeutiger Aufruf einer überladenen Funktion
+C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\Hausaufgabe_1_9\HA1_9.cpp(34,5): message :  kann "int f(int,int)" sein
+C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\Hausaufgabe_1_9\HA1_9.cpp(11,6): message :  oder "int f(int)"
+C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\Hausaufgabe_1_9\HA1_9.cpp(59,5): message :  bei Anpassung der Argumentliste "(int)"
+C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\Hausaufgabe_1_9\HA1_9.cpp(61,5): error C2668:  "f": Mehrdeutiger Aufruf einer überladenen Funktion
+C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\Hausaufgabe_1_9\HA1_9.cpp(34,5): message :  kann "int f(int,int)" sein
+C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\Hausaufgabe_1_9\HA1_9.cpp(22,5): message :  oder "int f(int &)"
+C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\Hausaufgabe_1_9\HA1_9.cpp(11,6): message :  oder "int f(int)"
+C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\Hausaufgabe_1_9\HA1_9.cpp(61,5): message :  bei Anpassung der Argumentliste "(int)"
+C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\Hausaufgabe_1_9\HA1_9.cpp(64,8): error C2264:  "f": Fehler in der Funktionsdefinition oder Funktionsdeklaration, Funktion nicht aufgerufen

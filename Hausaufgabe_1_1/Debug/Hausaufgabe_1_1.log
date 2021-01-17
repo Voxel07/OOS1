@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\Matze\OneDrive - bwedu\SS 19\Objektorientierte Systeme\OOS Semester 2019\Hausaufgabe_1_1\main.c(9,10): warning C4473: "scanf_s": nicht genügend Argumente für Formatzeichenfolge übergeben
+C:\Users\Matze\OneDrive - bwedu\SS 19\Objektorientierte Systeme\OOS Semester 2019\Hausaufgabe_1_1\main.c(9,10): message : Platzhalter und deren Parameter erwarten 2 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
+C:\Users\Matze\OneDrive - bwedu\SS 19\Objektorientierte Systeme\OOS Semester 2019\Hausaufgabe_1_1\main.c(9,10): message : Das fehlende variadic-Argument "2" ist für die Zeichenfolge "%c" erforderlich.
+C:\Users\Matze\OneDrive - bwedu\SS 19\Objektorientierte Systeme\OOS Semester 2019\Hausaufgabe_1_1\main.c(9,10): message : Dieses Argument wird als Puffergröße verwendet.

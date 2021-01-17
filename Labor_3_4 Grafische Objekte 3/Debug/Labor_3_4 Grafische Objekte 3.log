@@ -1,0 +1,2 @@
+﻿  Main.cpp
+C:\Users\Matze\OneDrive\HS\SS 19\Objektorientierte Systeme\OOS Semester 2019\Labor_3_4 Grafische Objekte 3\Main.cpp(25,15): error C2676:  Binärer Operator "++": "Point" definiert diesen Operator oder eine Konvertierung in einen für den vordefinierten Operator geeigneten Typ nicht
